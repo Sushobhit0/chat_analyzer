@@ -23,7 +23,7 @@ Import your WhatsApp chat .txt file into the analyzer and it will process the da
 - Seaborn
 - WordCloud
 - emoji
-## Usage/Examples
+## Usage
 
 1. Import your WhatsApp chat text file.
 2. Click on the 'Analyze' button.
